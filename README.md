@@ -1,5 +1,5 @@
 # Sobre o projeto
-- Programa criado para fins educacionais, que calcula o IMC (Índice de Massa Corpórea)
+- Programa que calcula o IMC (Índice de Massa Corpórea)
 
 # Tecnologias utilizadas
 - React Native
