@@ -7,5 +7,6 @@
 - JS / TypeScript
 
 # Como rodar
-- No CMD rode "npm install"
+- Necessário ter o Node Js Instalado.
+- No diretório, use o CMD e rode "npm install"
 - Depois execute o comando "npm start"
