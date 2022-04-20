@@ -11,16 +11,13 @@ const styles = StyleSheet.create({
         width:"100%",
     },
     resultImc: {
-        flex: 1,
-        marginTop:20,
-        paddingTop:15,
-        borderRadius:50,
-        alignItems:"center",
-        width:"100%",
+        fontSize:48,
+        color:"#FF0043",
+        fontWeight:"bold"
     },
 
-    numberImc:{
-        fontSize:48,
+    titleResultImc:{
+        fontSize:18,
         color:"#FF0043",
         fontWeight:"bold"
     },
